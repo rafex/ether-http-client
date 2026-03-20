@@ -1,8 +1,0 @@
-dev/rafex/ether/http/client/config/HttpClientConfig.class
-dev/rafex/ether/http/client/model/HttpRequestSpec.class
-dev/rafex/ether/http/client/config/HttpClientConfig$Builder.class
-dev/rafex/ether/http/client/model/HttpRequestSpec$Builder.class
-dev/rafex/ether/http/client/model/HttpResponseSpec.class
-dev/rafex/ether/http/client/EtherHttpClient.class
-dev/rafex/ether/http/client/model/HttpMethod.class
-dev/rafex/ether/http/client/impl/DefaultEtherHttpClient.class
